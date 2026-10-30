@@ -1,0 +1,12 @@
+
+node_modules/
+saved_model/
+tfjs_model/
+tflite/
+*.pb
+*.tflite
+*.bin
+*.data-*
+*.h5
+*.pkl
+*.zip
